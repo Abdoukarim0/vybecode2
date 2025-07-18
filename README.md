@@ -1,0 +1,1 @@
+Dans ce projet vous pouvez trouver les codes d'avant et apres respectivement dans les fichiers beforecode.html et aftercode.html1 ainsi ainsi que les prompts utilisés dans cursor pour améliorer la page web
